@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    position: relative;
+    height: 1000vh;
+}
+/*home page*/
+#logo{
+    margin-left: 98px;
+}
+header{
+    width: 100%;
+    z-index: 1;
+    position: fixed;
+    background-color: white;
+}
+.navbar-nav{
+    margin-left: 100px;
+
+}
+.nav-item{
+    margin-right: 30px;
+    margin-top: 6px;
+}
+#notifi,#login,#cart{
+    margin-right: 0;
+}
+.d-flex{
+    width: 400px;
+}
+#serach{
+    position: absolute;
+    left: 369px;
+}
+.icon{
+    margin-right: 20px;
+}
+#homeimg{
+    position: fixed;
+    top: 0;
+    z-index: -1;
+}
+h5{
+    position: absolute;
+    top: 44vh;
+    left: 6.5vw;
+    font-family: 'Darker Grotesque', sans-serif;
+    font-weight: bold;
+    letter-spacing: 30px;
+}
+p{
+    font-family: 'Dangrek', sans-serif;
+    position: absolute;
+    font-size: 120px;
+    top: 42vh;
+    left: 6vw;
+    color: #12140D;
+}
+.justOrder{
+    font-family: 'Dangrek', sans-serif;
+    position: absolute;
+    font-size: 100px;
+    top: 60vh;
+    left: 6vw;
+    color: #525B3B;
+    text-shadow: 6px -5px 3px rgba(0, 0, 0, 0.5);
+}
+span{
+    position: absolute;
+    top: 79vh;
+    left: 10vw;
+    font-family: 'Darker Grotesque', sans-serif;
+    font-weight: bold;
+}
+#line{
+    position: absolute;
+    top: 77vh;
+    left: 7.5vw;
+    transform: scale(0.6);
+}
+#ordernow{
+    position: absolute;
+    top: 88vh;
+    left: 7.5vw;
+    transform: scale(0.6)
+}
+.socials{
+    display: flex;
+    list-style: none;
+}
