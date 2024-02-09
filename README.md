@@ -11,6 +11,5 @@ Technologies Used
 
 Frontend
 <ul>
-<li>URL - </li>
-<li>GitHub repo - </li>
+<li>GitHub repo - https://github.com/NipunaTheekshanaDeMel/JavaEE_POS_Frontend.git</li>
 </ul>
